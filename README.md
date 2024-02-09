@@ -1,8 +1,18 @@
-### Hello there! 👋 I'm David Ochando
+### Hi folks! 🤜🤛 I'm David Ochando Blasco
+Full stack developer
 
-At 38, living in Valencia, Spain, my enthusiasm for tackling challenges has shaped my career in web development. My path of continuous learning and personal growth has led me to co-create and engage in numerous captivating projects.
+I am a passionate tech geek and developer currently engaged in several exciting personal side projects. Some of my upcoming attempts to reinvent the wheel:
 
+- 💻 I am currently working as a full stack developer at GeeksHubs, in addition to managing the faculty and other staff members of the academy.
+- 🧪 Working on side projects in the planning phase and taking the first steps in implementation:
+  - **RaYSON** ⚡: A lightning-fast JSON explorer that allows for file loading.
+  - :t-rex: Still secret Dinosaur themed app for kids.
+  - 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dave86dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-#### 🤝 Let's Connect!
-Don't hesitate to get in touch if you're interested in collaborating or simply want to discuss web development, my projects, or any aspect of technology. I'm continually open to exploring new possibilities and ideas!
+Among others, my digital toolbox includes...
+
+[![My Skills](https://skillicons.dev/icons?i=react,laravel,mongodb,nodejs,redux,&perline=5)](https://skillicons.dev)
+
+If you have a keen interest in programming, best practices, technology, and would like to collaborate on any of my public projects or have me participate in yours, please don't hesitate to contact me! 🛸
