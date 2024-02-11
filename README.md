@@ -5,7 +5,7 @@ I am a passionate tech geek and developer currently engaged in several exciting 
 
 - 💻 I am currently working as a full stack developer at GeeksHubs, in addition to managing the faculty and other staff members of the academy.
 - 🧪 Working on side projects in the planning phase and taking the first steps in implementation:
-  - [**RaYSON**](https://github.com/Dave86dev/rayson) ⚡: A lightning-fast JSON explorer that allows for file loading.
+  - [**RaYSON**](https://github.com/Dave86dev/rayson) ⚡: A lightning-fast JSON explorer that allows optimized JSON url loading.
   - :t-rex: Still secret Dinosaur themed app for kids.
     
 <br/>
