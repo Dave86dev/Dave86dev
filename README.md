@@ -34,7 +34,7 @@ Among others, my digital toolbox includes...
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
-
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dave86dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
