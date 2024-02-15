@@ -18,10 +18,6 @@ To my old web coding friends known as HTML, CSS, PHP, and JavaScript, in recent 
 
 My first coding adventures had C, C++ and Visual Basic as main starrings, but honestly, since I knew JavaScript/TypeScript there was no turning back. Go has been on my radar for quite some time.
 
-One of my longstanding curiosities has always been to learn pure Assembler 👽, yes, I'm one of those people...
-
-Among others, my digital toolbox includes...
-
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -56,6 +52,7 @@ Among others, my digital toolbox includes...
 </div>
 
 If you have a keen interest in programming, best practices, technology, and would like to collaborate on any of my public projects or have me participate in yours, please don't hesitate to contact me! 🛸
+
 
 ![davidochando1986@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![https://www.linkedin.com/in/david-ochando-blasco-90b2ba1a](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
