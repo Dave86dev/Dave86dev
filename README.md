@@ -6,7 +6,7 @@ I am a passionate tech geek and developer currently engaged in several exciting 
 - 💻 I am currently working as a full stack developer at GeeksHubs, in addition to managing the faculty and other staff members of the academy.
 - 🧪 Working on side projects in the planning phase and taking the first steps in implementation:
   
-  - [**storesaurusDB**](https://github.com/Dave86dev/storesaurusDB) :t-rex:: Backend for my new exciting mongoDB project! .csv files manager and analyzer.
+  - [**storesaurusdb**](https://github.com/Dave86dev/storesaurusdb) :t-rex:: Backend for my new exciting mongoDB project! .csv files manager and analyzer.
   - [**raysonts**](https://github.com/Dave86dev/raysonts) ⚡: A lightning-fast JSON explorer that allows optimized JSON url loading.
   
     
