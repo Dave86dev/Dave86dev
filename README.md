@@ -3,7 +3,7 @@ Full stack developer
 
 I am a passionate tech geek and developer currently engaged in several exciting personal side projects. Some of my upcoming attempts to reinvent the wheel while having fun:
 
-- 💻 I am currently working as a full stack developer at GeeksHubs, in addition to managing the faculty and other staff members of the academy.
+- 💻 I am currently working as a full stack developer at Power Electronics.
 - 🧪 Working on side projects in the planning phase and taking the first steps in implementation:
   
   - [**storesaurusdb**](https://github.com/Dave86dev/storesaurusdb) :t-rex:: Backend for my new exciting mongoDB project! .csv files manager and analyzer.
